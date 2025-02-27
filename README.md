@@ -9,9 +9,11 @@ Your challenge is to replicate the vercel.com homepage as accurately as possible
 ## Walkthrough Video
 To help you get started, please watch the walkthrough video below which highlights key aspects of the website using mouse annotations:
 
-<video src="vercel.mp4" controls width="640" height="360">
+<!-- <video src="vercel.mp4" controls width="640" height="360">
   Your browser does not support the video tag.
-</video>
+</video> -->
+<!-- [View Walkthrough Video](vercel.mp4) -->
+[![View Walkthrough Video](screenshot.png)](vercel.mp4)
 
 ## Submission Instructions
 1. **Repository:**  
