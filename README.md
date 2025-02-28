@@ -28,7 +28,7 @@ To help you get started, please watch the walkthrough video below which highligh
    Complete your talent profile sign-up on [gigsama.com](https://gigsama.com) **before** submitting your project.
 
 ## Deadline
-All submissions must be received by **Saturday night, 11:59 PM GMT, Feb 29**.
+All submissions must be received by **Saturday night, 11:59 PM GMT, Mar 1**.
 
 ## Interview Opportunity
 The top 5 candidates will be invited for a **30-minute interview** which will be the final stage.
